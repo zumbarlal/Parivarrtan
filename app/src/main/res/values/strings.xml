@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parivarrtan Coaching Classes</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8362775781344684/9029764050</string>
+    <string name="empty"></string>
+    <string name="share_text">"Welcome to Parivarrtan Coaching Classes \nDownload app from play store \nhttps://play.google.com/store/apps/details?id=org.parivarrtan.sreyah"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
